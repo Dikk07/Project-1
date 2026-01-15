@@ -1,0 +1,7 @@
+print("Hello There! I'm a simple chatbot. Let's get to know each other.")
+
+user_name = input("What is your name? : Dika ")
+user_age = input("How old are you? : 18 ")
+user_food = input("What is your favorite food? : fried rice ")
+
+greeting = input(" awesome! so, your name is Dika, you are 18 years old, and you love to eat fried rice. Nice to meet you.")
